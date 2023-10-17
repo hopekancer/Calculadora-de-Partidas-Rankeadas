@@ -1,7 +1,7 @@
 function saldoVitorias(vitorias, derrotas)
 {
 	let saldo = vitorias - derrotas
-    return saldo
+	return saldo
 }
 
 function rank(saldorank)
